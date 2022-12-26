@@ -22,8 +22,9 @@ NBA exploratory data analysis project with Pandas and Tableau
 
 *  NBA Revenue - https://runrepeat.com/nba-revenue-statistics  
 *  NBA Salaries - https://hoopshype.com/salaries/  
+*  NBA Salaries - https://data.world/datadavis/nba-salaries 
 *  Alternate Pay - https://www.spotrac.com/nba/cash/   
-
+*  All Stars - https://data.world/gmoney/nba-all-stars-2000-2016 
 <br>
 
 ## Setup and Installation   
@@ -39,3 +40,14 @@ TBD
 ## References:
 
 Something to think about:  https://www.si.com/nba/2018/09/21/nba-teams-revenue-spending-breakdown-small-large-market  
+
+Definitions:  
+
+**Hard cap**: A team salary figure (set at the apron) that, once triggered, cannot be crossed for any reason. A hard cap can be triggered in one of three ways:  
+*  A team uses the non-taxpayer mid-level exception.  
+*  A team uses the bi-annual exception.  
+*  A team acquires a player through a sign-and-trade.  
+
+
+https://www.cbssports.com/nba/news/nba-salary-cap-explained-glossary-for-the-terms-you-need-to-know-ahead-of-basketball-free-agency/#:~:text=Hard%20cap%3A%20A%20team%20salary,uses%20the%20bi%2Dannual%20exception.
+
